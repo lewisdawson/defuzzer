@@ -1,0 +1,14 @@
+{
+  "name": "defuzzer",
+  "version": "1.0.0",
+  "description": "A small proxy implementation used to debug service/proxy failure scenarios.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lewis Dawson <lew.dawson@lewdawson.com> (https://github.com/lewisdawson)",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.67.0"
+  }
+}
